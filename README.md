@@ -1,4 +1,4 @@
-# F21GP
+# Game Programming
 Coursework for the completion of Computer Games Programming (F21GP) course. 
 
 
